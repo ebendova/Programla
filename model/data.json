@@ -1,0 +1,38 @@
+[
+	{
+		"name" : "HTML elementleri bilen tanyş boluň",
+		"id" : 1,
+		"description" : "Ilki bilen, HTML ulanyp, ýönekeý web sahypasyny gurmak bilen başlarsyňyz. Bu web sahypasyna ýerleşdirilen kod redaktoryňyzda kod redaktirläp bilersiňiz. Kod redaktoryňyzda <h1> Salam </h1> diýýän kody görýärsiňizmi? Bu HTML elementi. HTML elementleriniň köpüsinde açyş belligi we ýapylyş belligi bar.",
+		"challenge" : "Bu kynçylykda synagdan geçmek üçin, “Salam dünýä” diýmek üçin h1 elementiňiziň tekstini üýtgediň."
+	},
+	{
+		"name" : "Abzas elementi bilen habar beriň",
+		"id" : 2,
+		"description" : "p elementleri web sahypalarynda abzas teksti üçin ileri tutulýan elementdir. p abzas üçin gysga. Munuň ýaly abzas elementini döredip bilersiňiz:<p> Men p belligi! </p>",
+		"challenge" : "H2 elementiňiziň aşagynda p elementini dörediň we oňa “Salam paragraf” tekstini beriň."
+	},
+	{
+		"name" : "Web sahypaňyza suratlar goşuň",
+		"id" : 3,
+		"description" : "Img elementini ulanyp, web sahypaňyza şekil goşup bilersiňiz we src atributyny ulanyp belli bir suratyň URL-sini görkezip bilersiňiz. Muňa mysal bolup biler: <img src='https://www.freecatphotoapp.com/your-image.jpg'>",
+		"challenge" : "Bar bolan esasy elementiň içinde bar bolan p elementlerinden öň img elementini salyň. Indi src atributyny https://www.bit.ly/fcc-relaxing-cat salgysyna görkezer ýaly düzüň"
+	},
+	{ 
+		"name" : "HTML5 elementleri bilen tanyşlyk",
+		"id" : 4,
+		"description" : "HTML5 has düşnükli HTML belliklerini hödürleýär. Bularyň arasynda esasy, sözbaşy, aşaky sözbaşy, nav, wideo, makala, bölüm we beýlekiler bar. Bu bellikler HTML-ä düşündirişli gurluş berýär, HTML-ni okamagy aňsatlaşdyrýar we Gözleg motory optimizasiýasyna (SEO) we elýeterlilige kömek edýär. Esasy HTML5 belligi gözleg motorlaryna we beýleki döredijilere sahypaňyzyň esasy mazmunyny tapmaga kömek edýär.",
+		"challenge" : "Aşakdaky pişik ipsum teksti bilen ikinji p elementini dörediň: Purr bökmek, düşegiň çyzylan gün şöhlesini ýyrtyp iýiň, hemme ýerde dökülen çukuryň içindäki tüýdükli sütükli katnip. Soňra esasy elementi dörediň we esasy elementiň içinde diňe iki p elementini höwürtgediň."
+	},
+	{
+		"name" : "HTML düşündiriş beriň",
+		"id" : 5,
+		"description" : "Teswir başlamak üçin <! - ulanmalydygyny we teswiriň soňlanmagy üçin -> ulanmalydygyny ýadyňyzdan çykarmaň. Bu ýerde, h2 elementiňiz başlamazdan öň teswiriňizi gutarmaly bolarsyňyz.",
+		"challenge" : "H1 elementiňizi we p elementiňizi düşündiriň, ýöne h2 elementiňizi däl."
+	},
+	{ 
+		"name" : "Giriş HTML",
+		"id" : 6,
+		"description" : "Düşündiriş, ahyrky ulanyja görkezilýän netijä täsir etmezden, koduňyzyň içindäki beýleki işläp düzüjiler üçin teswirleri goýup bilersiňiz. Düşündiriş, kody düýbünden pozmazdan hereketsiz etmegiň amatly usulydyr. HTML-de teswirler <! - bilen başlaýar we a -> bilen gutarýar",
+		"challenge" : "H1, h2 we p elementleriňizi aýryň."
+	}
+]
